@@ -1,0 +1,5 @@
+.rpmmacros
+.rpmrc
+logs
+rpmbuild
+sysroot
